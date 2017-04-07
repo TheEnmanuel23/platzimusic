@@ -13,6 +13,6 @@ export default {
 
 <style lang="stylus" scoped>
 li.artist
-  display block
-  margin 10px 0
+  display: block;
+  margin: 10px 0;
 </style>
